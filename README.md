@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @elsamuelisrael
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning golang, react, js, html, linux debian, apache, delphi-pascal and actionscript yeah! i still use it dont judge me :)
+- 🌱 I’m currently learning golang, node, react, js, html, linux debian, apache, delphi-pascal and actionscript yeah! i still use it dont judge me :)
 - 💞️ I’m looking to collaborate on i don't know
 - 📫 How to reach me @elsamuelisrael
 
